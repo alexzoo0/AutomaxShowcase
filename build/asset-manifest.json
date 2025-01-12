@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AutomaxRepairs/static/css/main.f82fc112.css",
+    "main.js": "/AutomaxRepairs/static/js/main.42942b5e.js",
+    "static/media/technician.png": "/AutomaxRepairs/static/media/technician.ac548f347c3aeacb1fb9.png",
+    "static/media/Inlanders.otf": "/AutomaxRepairs/static/media/Inlanders.773890a2958e40e1afa8.otf",
+    "static/media/automaxBg.svg": "/AutomaxRepairs/static/media/automaxBg.a3591e4f3581dffeca1d.svg",
+    "static/media/automaxLogo.svg": "/AutomaxRepairs/static/media/automaxLogo.909f90a866169877b836cf1331f89cd9.svg",
+    "static/media/automaxS.svg": "/AutomaxRepairs/static/media/automaxS.4f89260b60e82c39046f5c98f539a80a.svg",
+    "static/media/mechanicIcon.svg": "/AutomaxRepairs/static/media/mechanicIcon.d34d72d11111524aa1c7.svg",
+    "static/media/BGShape2.svg": "/AutomaxRepairs/static/media/BGShape2.fdb1485d5020cb644c15d43a021153fc.svg",
+    "static/media/listGraph.svg": "/AutomaxRepairs/static/media/listGraph.82915938f44b4639c1d4.svg",
+    "static/media/texasIns.svg": "/AutomaxRepairs/static/media/texasIns.56670c350f35389deb3aea9a32755e19.svg",
+    "static/media/BGShape4.svg": "/AutomaxRepairs/static/media/BGShape4.34c0135809229b9d5b7d.svg",
+    "static/media/BGShape.svg": "/AutomaxRepairs/static/media/BGShape.81d9d62975fcabdf44ab.svg",
+    "index.html": "/AutomaxRepairs/index.html",
+    "static/media/BGShape5.svg": "/AutomaxRepairs/static/media/BGShape5.4752ef8a70739acff927.svg",
+    "main.f82fc112.css.map": "/AutomaxRepairs/static/css/main.f82fc112.css.map",
+    "main.42942b5e.js.map": "/AutomaxRepairs/static/js/main.42942b5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82fc112.css",
+    "static/js/main.42942b5e.js"
+  ]
+}
