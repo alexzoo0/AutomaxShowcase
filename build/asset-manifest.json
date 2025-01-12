@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AutomaxRepairs/static/css/main.f82fc112.css",
-    "main.js": "/AutomaxRepairs/static/js/main.42942b5e.js",
+    "main.js": "/AutomaxRepairs/static/js/main.88bcf81c.js",
     "static/media/technician.png": "/AutomaxRepairs/static/media/technician.ac548f347c3aeacb1fb9.png",
     "static/media/Inlanders.otf": "/AutomaxRepairs/static/media/Inlanders.773890a2958e40e1afa8.otf",
     "static/media/automaxBg.svg": "/AutomaxRepairs/static/media/automaxBg.a3591e4f3581dffeca1d.svg",
@@ -16,10 +16,10 @@
     "index.html": "/AutomaxRepairs/index.html",
     "static/media/BGShape5.svg": "/AutomaxRepairs/static/media/BGShape5.4752ef8a70739acff927.svg",
     "main.f82fc112.css.map": "/AutomaxRepairs/static/css/main.f82fc112.css.map",
-    "main.42942b5e.js.map": "/AutomaxRepairs/static/js/main.42942b5e.js.map"
+    "main.88bcf81c.js.map": "/AutomaxRepairs/static/js/main.88bcf81c.js.map"
   },
   "entrypoints": [
     "static/css/main.f82fc112.css",
-    "static/js/main.42942b5e.js"
+    "static/js/main.88bcf81c.js"
   ]
 }
